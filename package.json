@@ -1,6 +1,6 @@
 {
     "name": "quidphp-javascript",
-    "version": "5.31.0",
+    "version": "5.31.1",
     "description": "JavaScript module that is useful for both the front & back-end",
     "main": "index.js",
     "type": "module",
@@ -27,6 +27,10 @@
         "url": "https://github.com/quidphp/javascript/issues"
     },
     "homepage": "https://github.com/quidphp/javascript#readme",
+    "dependencies": {
+        "quidphp-browser": "5.31.*",
+        "quidphp-javascript": "5.31.*"
+    },
     "devDependencies": {
         "laravel-mix": "^6.0.43"
     }
