@@ -1,0 +1,6 @@
+{
+    "/dist/node.js": "/dist/node.js",
+    "/dist/node-test.js": "/dist/node-test.js",
+    "/dist/node-es5.js": "/dist/node-es5.js",
+    "/dist/node-test-es5.js": "/dist/node-test-es5.js"
+}

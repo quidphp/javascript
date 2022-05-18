@@ -1,0 +1,33 @@
+{
+    "name": "quidphp-javascript",
+    "version": "5.31.0",
+    "description": "JavaScript files that are useful for both the front & back-end",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "mix",
+        "prod": "mix --production",
+        "watch": "mix watch",
+        "test": "node test/run.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/quidphp/javascript.git"
+    },
+    "keywords": [
+        "quidphp",
+        "quid",
+        "php-framework",
+        "js-framework",
+        "nodejs"
+    ],
+    "author": "Pierre-Philippe Emond",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/quidphp/javascript/issues"
+    },
+    "homepage": "https://github.com/quidphp/javascript#readme",
+    "devDependencies": {
+        "laravel-mix": "^6.0.43"
+    }
+}
