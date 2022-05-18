@@ -5,7 +5,7 @@
  */
 
 // node
-// script to test the node files
+// script to test the node module
 
 // import
 import * as Quid from '../index.js';

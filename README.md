@@ -4,7 +4,7 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/quidphp/javascript)](https://github.com/quidphp/javascript)
 
 ## About
-**QuidPHP/JavaScript** contains JavaScript files that are useful for both the front & back-end.
+**QuidPHP/JavaScript** contains a JavaScript module that is useful for both the front & back-end.
 
 ## License
 **QuidPHP/JavaScript** is available as an open-source package under the [MIT license](LICENSE).
