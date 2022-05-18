@@ -1,7 +1,7 @@
 {
     "name": "quidphp/javascript",
     "type": "library",
-    "description": "JavaScript files that are useful for both the front & back-end",
+    "description": "JavaScript module that is useful for both the front & back-end",
     "keywords": ["quidphp","quid","php-framework","js-framework","nodejs"],
     "homepage": "https://quidphp.com",
     "license": "MIT",
