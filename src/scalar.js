@@ -8,7 +8,7 @@
 // script with functions related to scalar values
 
 // import
-import { Arr, Bool, Integer, Num } from '../index.js';
+import { Arr, Bool, Json, Integer, Num } from '../index.js';
 
 // export
 export default {    
