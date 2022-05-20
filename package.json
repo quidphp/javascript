@@ -1,6 +1,6 @@
 {
     "name": "quidphp-javascript",
-    "version": "5.31.2",
+    "version": "5.31.3",
     "description": "JavaScript module that is useful for both the front & back-end",
     "main": "index.js",
     "type": "module",
@@ -28,6 +28,7 @@
     },
     "homepage": "https://github.com/quidphp/javascript#readme",
     "devDependencies": {
-        "laravel-mix": "^6.0.43"
+        "laravel-mix": "^6.0.43",
+        "laravel-mix-polyfill": "^3.0.1"
     }
 }

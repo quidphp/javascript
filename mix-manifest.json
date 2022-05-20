@@ -1,6 +1,4 @@
 {
-    "/dist/javascript-es.js": "/dist/javascript-es.js",
-    "/dist/javascript-test-es.js": "/dist/javascript-test-es.js",
     "/dist/javascript.js": "/dist/javascript.js",
     "/dist/javascript-test.js": "/dist/javascript-test.js"
 }
