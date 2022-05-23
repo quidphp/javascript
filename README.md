@@ -8,8 +8,3 @@
 
 ## License
 **QuidPHP/JavaScript** is available as an open-source package under the [MIT license](LICENSE).
-
-## Installation
-**QuidPHP/JavaScript** can be easily installed with [Composer](https://getcomposer.org). It is available on [Packagist](https://packagist.org/packages/quidphp/site).
-``` bash
-$ composer require quidphp/javascript
