@@ -56,15 +56,15 @@ All dependencies will be resolved by using the [NPM](https://www.npmjs.com) inst
 - [validate.js](src/validate.js) - Script with behaviours related to validation
 - [vari.js](src/vari.js) - Script with a set of general functions related to variables
 
-### Testing
-**QuidPHP/JavaScript** contains 2 test scripts:
-- [javascript.js](test/javascript.js) - Script to test the module in node or the browser
-- [run.js](test/run.js) - File to run the testsuite in node
-
 ### Distributable
 **QuidPHP/JavaScript** contains 2 scripts that can be used in the browser.
 - [javascript.js](dist/javascript.js) - Minified and transpiled script ready for production
 - [javascript-test.js](dist/javascript-test.js) - Same as javascript.js but also contains the module tests
+
+### Testing
+**QuidPHP/JavaScript** contains 2 test scripts:
+- [javascript.js](test/javascript.js) - Script to test the module in node or the browser
+- [run.js](test/run.js) - File to run the testsuite in node
 
 **QuidPHP/JavaScript** testsuite can be run in the browser by creating a new [QuidPHP/Assert](https://github.com/quidphp/assert) project. It can also be run in Node with the command: 
 ``` bash
