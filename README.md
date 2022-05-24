@@ -4,7 +4,7 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/quidphp/javascript)](https://github.com/quidphp/javascript)
 
 ## About
-**QuidPHP/JavaScript** is a JavaScript module useful for both the front & back-end. The scripts are compatible within the browser or Node.
+**QuidPHP/JavaScript** is a JavaScript module useful for both the front-end & back-end. The scripts are compatible within the browser or Node.
 
 ## License
 **QuidPHP/JavaScript** is available as an open-source package under the [MIT license](LICENSE).
@@ -39,7 +39,7 @@ All dependencies will be resolved by using the [NPM](https://www.npmjs.com) inst
 - [bool.js](src/bool.js) - Methods for bool primitive type
 - [datetime.js](src/datetime.js) - Script with functions related to date and time
 - [debug.js](src/debug.js) - Script with functions related to debugging
-- [env.js](src/env.js) - Methods related to javascript environnement
+- [env.js](src/env.js) - Methods related to javascript environment
 - [factory.js](src/factory.js) - Script with a method to create the objects with prototype
 - [func.js](src/func.js) - Script with methods related to functions
 - [html.js](src/html.js) - Script containing event listeners functions for target elements
@@ -60,6 +60,11 @@ All dependencies will be resolved by using the [NPM](https://www.npmjs.com) inst
 **QuidPHP/JavaScript** contains 2 test scripts:
 - [javascript.js](test/javascript.js) - Script to test the module in node or the browser
 - [run.js](test/run.js) - File to run the testsuite in node
+
+### Distributable
+**QuidPHP/JavaScript** contains 2 scripts that can be used in the browser.
+- [javascript.js](dist/javascript.js) - Minified and transpiled script ready for production
+- [javascript-test.js](dist/javascript-test.js) - Same as javascript.js but also contains the module tests
 
 **QuidPHP/JavaScript** testsuite can be run in the browser by creating a new [QuidPHP/Assert](https://github.com/quidphp/assert) project. It can also be run in Node with the command: 
 ``` bash

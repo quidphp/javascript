@@ -5,7 +5,7 @@
  */
 
 // env
-// methods related to javascript environnement
+// methods related to javascript environment
 
 // import
 import { Arr, Obj } from '../index.js';
