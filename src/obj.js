@@ -536,16 +536,5 @@ const ObjProto = {
     }
 }
 
-// objFactory
-// méthode pour merger plusieurs objets, avec support pour prototype
-const ObjFactory = function(prototype)
-{
-    const r = Object.create((prototype === true)? {}:(prototype || null));
-    const args = Array.prototype.slice.call(arguments,1);
-    Object.assign.apply(null,[r].concat(args));
-    
-    return r;
-}
-
 // export
 export { ObjBase, ObjKeyValue, ObjEach, ObjCopyFilterMap, ObjWrite, ObjWriteSelf, ObjProto, ObjFactory };
