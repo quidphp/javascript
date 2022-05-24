@@ -537,4 +537,4 @@ const ObjProto = {
 }
 
 // export
-export { ObjBase, ObjKeyValue, ObjEach, ObjCopyFilterMap, ObjWrite, ObjWriteSelf, ObjProto, ObjFactory };
+export { ObjBase, ObjKeyValue, ObjEach, ObjCopyFilterMap, ObjWrite, ObjWriteSelf, ObjProto };
