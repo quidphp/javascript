@@ -33,6 +33,10 @@ All dependencies will be resolved by using the [NPM](https://www.npmjs.com) inst
 **QuidPHP/JavaScript** code is commented and all methods are explained (in French).
 
 ## Overview
+**QuidPHP/JavaScript** contains one entry file.
+- [index](index.js) - Entry file for the module
+
+### Source
 **QuidPHP/JavaScript** contains 21 JavaScript files. Here is an overview:
 - [arr](src/arr.js) - Script with some objects related to array manipulation
 - [arrLike](src/arrLike.js) - Script with some functions related to array like management
