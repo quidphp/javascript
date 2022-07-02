@@ -1,6 +1,6 @@
 {
     "name": "quidphp-javascript",
-    "version": "5.31.10",
+    "version": "5.31.11",
     "description": "JavaScript module useful for both the front-end & back-end",
     "main": "index.js",
     "type": "module",
